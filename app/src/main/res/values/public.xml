@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="lock_screen" id="0x7f020002" />
+    <public type="drawable" name="lock" id="0x7f020000" />
+    <public type="drawable" name="lock_" id="0x7f020001" />
+    <public type="xml" name="device_admin_lock" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="lock_screen_des" id="0x7f040001" />
+</resources>
